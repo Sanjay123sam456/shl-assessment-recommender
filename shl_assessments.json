@@ -1,0 +1,4440 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/account-manager-solution/",
+    "test_type": [
+      "B",
+      "P",
+      "C",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Account Manager Solution. Assessment types: Biodata & Situational Judgement, Personality & Behavior, Competencies, Ability & Aptitude. Leadership and management competency assessment."
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": [
+      "K",
+      "P",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Administrative Professional - Short Form. Assessment types: Knowledge & Skills, Personality & Behavior, Ability & Aptitude. Administrative and clerical skills assessment."
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agency-manager-solution/",
+    "test_type": [
+      "S",
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Agency Manager Solution. Assessment types: Simulations, Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude. Leadership and management competency assessment."
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "test_type": [
+      "P",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apprentice + 8.0 Job Focused Assessment. Assessment types: Personality & Behavior, Biodata & Situational Judgement. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "test_type": [
+      "P",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apprentice 8.0 Job Focused Assessment. Assessment types: Personality & Behavior, Biodata & Situational Judgement. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "test_type": [
+      "K",
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Bank Administrative Assistant - Short Form. Assessment types: Knowledge & Skills, Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude. Administrative and clerical skills assessment."
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-collections-agent-short-form/",
+    "test_type": [
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Bank Collections Agent - Short Form. Assessment types: Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude."
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "test_type": [
+      "S",
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Bank Operations Supervisor - Short Form. Assessment types: Simulations, Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude. Leadership and management competency assessment."
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "test_type": [
+      "S",
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Bilingual Spanish Reservation Agent Solution. Assessment types: Simulations, Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude."
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "test_type": [
+      "K",
+      "B",
+      "P",
+      "A",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Bookkeeping, Accounting, Auditing Clerk Short Form. Assessment types: Knowledge & Skills, Biodata & Situational Judgement, Personality & Behavior, Ability & Aptitude, Simulations. Administrative and clerical skills assessment."
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/branch-manager-short-form/",
+    "test_type": [
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Branch Manager - Short Form. Assessment types: Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude. Leadership and management competency assessment."
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cashier-solution/",
+    "test_type": [
+      "P",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Cashier Solution. Assessment types: Personality & Behavior, Biodata & Situational Judgement, Ability & Aptitude."
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "test_type": [
+      "B",
+      "E",
+      "P",
+      "C",
+      "A",
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Global Skills Development Report. Assessment types: Biodata & Situational Judgement, Assessment Exercises, Personality & Behavior, Competencies, Ability & Aptitude, Development & 360."
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: .NET Framework 4.5. Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: .NET MVC (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: .NET MVVM (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: .NET WCF (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: .NET WPF (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: .NET XAML (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Accounts Payable (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Accounts Payable Simulation (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Accounts Receivable (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Accounts Receivable Simulation (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ADO.NET (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Adobe Experience Manager (New). Assessment types: Knowledge & Skills. Leadership and management competency assessment."
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Adobe Photoshop CC. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Aeronautical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Aerospace Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "test_type": [
+      "K"
+    ],
+    "duration": 7,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Agile Software Development. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Agile Testing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: AI Skills. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Amazon Web Services (AWS) Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Android Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Angular 6 (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: AngularJS (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Hadoop (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Hadoop Extensions (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache HBase (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Hive (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Kafka (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Pig (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Apache Spark (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ASP .NET with C# (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: ASP.NET 4.5. Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_type": [
+      "E"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Assessment and Development Center Exercises. Assessment types: Assessment Exercises."
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata - Fix (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata - SQL (New). Assessment types: Simulations. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata Data Science (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata Data Science Pro (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "test_type": [
+      "S"
+    ],
+    "duration": 30,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata Front End. Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata Pro (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automata Selenium. Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automation Anywhere RPA Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Automotive Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Basic Biology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Basic Computer Literacy (Windows 10) (New). Assessment types: Knowledge & Skills, Simulations."
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Basic Statistics (New). Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Biochemistry (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Biotech Lab Techniques (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: BizTalk (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Business Communication (adaptive). Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Business Communications. Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: C Programming (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: C# Programming (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: C++ Programming (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Cardiology and Diabetes Management (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Ceramic Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Chemical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Cisco AppDynamics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Civil Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Cloud Computing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: COBOL Programming (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Computer Science (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Contact Center Call Simulation (New). Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Conversational Multichat Simulation. Assessment types: Simulations. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Core Java (Advanced Level) (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Core Java (Entry Level) (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Count Out The Money. Assessment types: Knowledge & Skills, Simulations."
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: CSS3 (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Culinary Skills (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": [
+      "S",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Customer Service Phone Simulation. Assessment types: Simulations, Biodata & Situational Judgement. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/",
+    "test_type": [
+      "S",
+      "P",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Customer Service Phone Solution. Assessment types: Simulations, Personality & Behavior, Biodata & Situational Judgement. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Cyber Risk (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Data Entry (New). Assessment types: Simulations. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Data Entry Alphanumeric Split Screen - US. Assessment types: Knowledge & Skills. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Data Entry Numeric Split Screen - US. Assessment types: Knowledge & Skills. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Data Entry Ten Key Split Screen. Assessment types: Knowledge & Skills. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Data Science (New). Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Data Warehousing Concepts. Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Dependability and Safety Instrument (DSI). Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Dermatology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Desktop Support (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Digital Advertising (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Digital Readiness Development Report - IC. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Digital Readiness Development Report - Manager. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Docker (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Dojo (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Drupal (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: DSI v1.1 Interpretation Report. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Econometrics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Economics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Electrical and Electronics Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Electrical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Electronics & Telecommunications Engineering (New). Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Electronics and Embedded Systems Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Electronics and Semiconductor Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: English Comprehension (New). Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Enterprise Java Beans (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Enterprise Leadership Report 1.0. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Enterprise Leadership Report 2.0. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Cashier Solution. Assessment types: Personality & Behavior, Competencies. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Customer Serv-Retail & Contact Center. Assessment types: Personality & Behavior, Competencies. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Customer Service (General) Solution. Assessment types: Personality & Behavior, Competencies. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Hotel Front Desk Solution. Assessment types: Personality & Behavior, Competencies. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Sales Solution. Assessment types: Personality & Behavior, Competencies. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Technical Support Solution. Assessment types: Personality & Behavior, Competencies. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ETL Testing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Executive Scenarios. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Executive Scenarios Narrative Report. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Executive Scenarios Profile Report. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ExpressJS (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Filing - Names (R1). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Filing - Numbers. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Financial Accounting (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Financial and Banking Services (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Fire Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Following Instructions v1 - UK (R1). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Following Instructions v1 - US (R2). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Food and Beverage Services (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Food Science (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Front Office Management (New). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Fundamentals of Chemistry (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Fundamentals of Physics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: General Diseases (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Geoinformatics Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Geoscience Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: GIT (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "test_type": [
+      "K",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Global Skills Assessment. Assessment types: Knowledge & Skills, Competencies."
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Graduate Scenarios. Assessment types: Biodata & Situational Judgement. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Graduate Scenarios Narrative Report. Assessment types: Biodata & Situational Judgement. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Graduate Scenarios Profile Report. Assessment types: Biodata & Situational Judgement. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Hibernate (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: HIPAA (Security). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: HiPo Assessment Report 1.0. Assessment types: Personality & Behavior, Competencies."
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: HiPo Assessment Report 2.0. Assessment types: Personality & Behavior, Competencies."
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "test_type": [
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: HiPo Unlocking Potential Report 2.0. Assessment types: Competencies."
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Housekeeping (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: HTML/CSS (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: HTML5 (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Human Resources (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: IBM DataStage (New). Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: IBM Sterling Order Management System (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Industrial Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Informatica (Architecture) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Informatica (Developer) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/instrumentation-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Instrumentation Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interpersonal-communications/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Interpersonal Communications. Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Interviewing and Hiring Concepts (U.S.). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ios-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: iOS Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ITIL (IT Infrastructure Library) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Java 2 Platform Enterprise Edition 1.4 Fundamental. Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Java 8 (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-design-patterns-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Java Design Patterns (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-frameworks-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Java Frameworks (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Java Platform Enterprise Edition 7 (Java EE 7). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-web-services-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Java Web Services (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/javascript-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: JavaScript (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jenkins-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Jenkins (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/job-control-language-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Job Control Language (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/jquery-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: jQuery (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/kubernetes-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Kubernetes (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-administration-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Linux Administration (New). Assessment types: Knowledge & Skills. Administrative and clerical skills assessment."
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-operating-system/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Linux Operating System. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/linux-programming-general/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Linux Programming (General). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/load-runner-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Load Runner (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/management-scenarios/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Management Scenarios. Assessment types: Biodata & Situational Judgement."
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Managerial Scenarios Candidate Report. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Managerial Scenarios Narrative Report. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "test_type": [
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Managerial Scenarios Profile Report. Assessment types: Biodata & Situational Judgement. Leadership and management competency assessment."
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manual-testing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manual Testing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "test_type": [
+      "P",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manufac. & Indust. - Mechanical & Vigilance 8.0. Assessment types: Personality & Behavior, Ability & Aptitude. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manufac. & Indust. - Safety & Dependability 8.0. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/essential-focus-8-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manufacturing & Industrial - Essential Focus 8.0. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-focus-8-0/",
+    "test_type": [
+      "P",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manufacturing & Industrial - Mechanical Focus 8.0. Assessment types: Personality & Behavior, Ability & Aptitude. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vigilance-focus-8-0/",
+    "test_type": [
+      "P",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manufacturing & Industrial - Vigilance Focus 8.0. Assessment types: Personality & Behavior, Ability & Aptitude."
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/marketing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Marketing (New). Assessment types: Knowledge & Skills. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/maven-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Maven (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechanical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Mechanical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mechatronics-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Mechatronics Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/medical-terminology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Medical Terminology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/metallurgical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Metallurgical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "test_type": [
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MFS 360 Enterprise Leadership Report. Assessment types: Development & 360. Leadership and management competency assessment."
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "test_type": [
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MFS 360 UCF Group Report. Assessment types: Development & 360."
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "test_type": [
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MFS 360 UCF Performance Potential Dev Tips Report. Assessment types: Development & 360."
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "test_type": [
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MFS 360 UCF Standard Report. Assessment types: Development & 360."
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Micro Focus Unified Functional Testing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microservices-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microservices (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft Dynamics Development (New). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft Excel 365 - Essentials (New). Assessment types: Knowledge & Skills, Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft Excel 365 (New). Assessment types: Knowledge & Skills, Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Microsoft Outlook 2013 (adaptive). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft PowerPoint 365 - Essentials (New). Assessment types: Knowledge & Skills, Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Microsoft SQL Server 2014 Programming. Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Microsoft Windows Server 2012 Administration. Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft Word 365 - Essentials (New). Assessment types: Knowledge & Skills, Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": [
+      "K",
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Microsoft Word 365 (New). Assessment types: Knowledge & Skills, Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mineral-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Mineral Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mining-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Mining Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mobility-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Mobility (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/molecular-biology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Molecular Biology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mongodb-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MongoDB (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Motivation Questionnaire MQM5. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-candidate-motivation-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MQ Candidate Motivation Report. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-employee-motivation-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MQ Employee Motivation Report. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-motivation-report-pack/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MQ Motivation Report Pack. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mq-profile/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MQ Profile. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-access-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS Access (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-excel-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS Excel (New). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS Office Basic Computer Literacy (New). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS Office Basic Computer Literacy (Sim) (New). Assessment types: Simulations. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-powerpoint-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS PowerPoint (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ms-word-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MS Word (New). Assessment types: Knowledge & Skills. Microsoft Office and productivity software skills assessment."
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/mulesoft-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: MuleSoft Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/multitasking-ability/",
+    "test_type": [
+      "K",
+      "S",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Multitasking Ability. Assessment types: Knowledge & Skills, Simulations, Ability & Aptitude."
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Networking and Implementation (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/node-js-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Node.js (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/nursing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Nursing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Occupational Personality Questionnaire OPQ32r. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/operations-management-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Operations Management (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Candidate Plus Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-candidate-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Candidate Report 2.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Emotional Intelligence Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-leadership-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Leadership Report. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Manager Plus Report. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Manager Plus Report 2.0. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Maximising your Learning Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ MQ Sales Report. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Premium Plus Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Premium Plus Report 2.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-profile-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Profile Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Team Impact Group Development Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Team Impact Individual Development Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-impact-selection-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Team Impact Selection Report. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Team Types & Leadership Styles Profile. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Team Types and Leadership Styles Report. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ UCF Development Action Planner Report 1.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ UCF Development Action Planner Report 2.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Universal Competency Report 1.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ Universal Competency Report 2.0. Assessment types: Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ User and Managers Report. Assessment types: Personality & Behavior. Leadership and management competency assessment."
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/opq-user-report/",
+    "test_type": [
+      "S",
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: OPQ User Report. Assessment types: Simulations, Personality & Behavior. Personality and behavioral assessment for workplace fit."
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Oracle DBA (Advanced Level) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Oracle DBA (Entry Level) (New). Assessment types: Knowledge & Skills. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Oracle PL/SQL (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Oracle WebLogic Server (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Organic Chemistry (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Paint Technology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pediatrics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pega Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/perl-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Perl (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Petrochemical Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Petroleum Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pharmaceutical Analysis (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pharmaceutical Chemistry (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pharmaceutical Science (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pharmaceutics (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Pharmacology (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: PHP (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "test_type": [
+      "P",
+      "C",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: PJM Development Report. Assessment types: Personality & Behavior, Competencies, Ability & Aptitude."
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "test_type": [
+      "P",
+      "C",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: PJM Selection Report. Assessment types: Personality & Behavior, Competencies, Ability & Aptitude."
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Polymer Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Power Electronics and Drives (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Power System Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Prism (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Production and Industrial Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/production-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Production Engineering (New). Assessment types: Knowledge & Skills. Engineering domain knowledge assessment."
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/programming-concepts/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Programming Concepts. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/project-management-2013/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Project Management (2013). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/proofreading-v1/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Proofreading v1. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/python-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Python (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/r-programming-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: R Programming (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reactjs-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: ReactJS (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-english-v1/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Reading Comprehension - English v1. Assessment types: Ability & Aptitude. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Reading Comprehension - Spanish v1. Assessment types: Ability & Aptitude."
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reading-comprehension-v2/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Reading Comprehension v2. Assessment types: Ability & Aptitude."
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq/",
+    "test_type": [
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: RemoteWorkQ. Assessment types: Competencies."
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-manager-report/",
+    "test_type": [
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: RemoteWorkQ Manager Report. Assessment types: Competencies. Leadership and management competency assessment."
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/remoteworkq-participant-report/",
+    "test_type": [
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: RemoteWorkQ Participant Report. Assessment types: Competencies."
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/restful-web-services-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: RESTful Web Services (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "test_type": [
+      "K",
+      "S",
+      "B",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Retail Sales and Service Simulation. Assessment types: Knowledge & Skills, Simulations, Biodata & Situational Judgement, Ability & Aptitude. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/reviewing-forms-us-r1/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Reviewing Forms - US (R1). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Ruby (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Ruby on Rails (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "test_type": [
+      "S",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales & Service Phone Simulation. Assessment types: Simulations, Biodata & Situational Judgement. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-and-service-phone-solution/",
+    "test_type": [
+      "S",
+      "P",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales & Service Phone Solution. Assessment types: Simulations, Personality & Behavior, Biodata & Situational Judgement. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-interview-guide/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Interview Guide. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-profiler-cards/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Profiler Cards. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Transformation 1.0 - Individual Contributor. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Transformation 2.0 - Individual Contributor. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Transformation Report 1.0 - Sales Manager. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Transformation Report 2.0 - Sales Manager. Assessment types: Personality & Behavior. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/salesforce-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Salesforce Development (New). Assessment types: Knowledge & Skills. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP ABAP (Advanced Level) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP ABAP (Intermediate Level) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-basis-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP Basis (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-business-objects-webi-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP Business Objects WebI (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP BW (Business Warehouse) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP HCM (Human Capital Management) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-hybris-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP Hybris (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-materials-management-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP Materials Management (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SAP SD (Sales and Distribution) (New). Assessment types: Knowledge & Skills. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/search-engine-optimization-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Search Engine Optimization (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/selenium-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Selenium (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shell-scripting-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Shell Scripting (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": [
+      "S",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: SHL Verify Interactive - Inductive Reasoning. Assessment types: Simulations, Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "SHL Verify Interactive â€“ Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "test_type": [
+      "S",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: SHL Verify Interactive â€“ Deductive Reasoning. Assessment types: Simulations, Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "SHL Verify Interactive â€“ Numerical Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": [
+      "S",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: SHL Verify Interactive â€“ Numerical Reasoning. Assessment types: Simulations, Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: SHL Verify Interactive G+. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: SHL Verify Interactive Numerical Calculation. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/siebel-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Siebel Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Smart Interview Live. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Smart Interview Live Coding. Assessment types: Knowledge & Skills. Coding simulation and automated programming assessment."
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Smart Interview On Demand. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/social-media-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Social Media (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/software-business-analysis/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Software Business Analysis. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sonarqube-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SonarQube (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spelling-u-s-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Spelling (U.S.) (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "test_type": [
+      "K",
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Split Screen Typing Test - Form 1. Assessment types: Knowledge & Skills, Ability & Aptitude."
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/spring-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Spring (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SQL (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SQL Server (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SQL Server Analysis Services (SSAS) (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SQL Server Integration Services (SSIS) (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SQL Server Reporting Services (SSRS) (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/statistical-analysis-system-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Statistical Analysis System (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/struts-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Struts (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-aus/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken English (AUS). Assessment types: Simulations. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent)  (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken English (Indian Accent)  (New). Assessment types: Simulations. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-u-k/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken English (U.K.). Assessment types: Simulations. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "SVAR - Spoken English (US)  (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken English (US)  (New). Assessment types: Simulations. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken French (Canadian) (New). Assessment types: Simulations."
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-french-european-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken French (European) (New). Assessment types: Simulations."
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken Spanish (Castilian) (New). Assessment types: Simulations."
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: SVAR - Spoken Spanish (North American) (New). Assessment types: Simulations."
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/swing-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Swing (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/tableau-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Tableau (New). Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/telecommunications-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Telecommunications Engineering (New). Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/teradata-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Teradata Development (New). Assessment types: Knowledge & Skills. Data analysis and analytics skills assessment."
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/time-management-u-s/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Time Management (U.S.). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/training-development/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Training Development. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/typing-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Typing (New). Assessment types: Simulations."
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/uipath-rpa-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: UiPath RPA Development (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Universal Competency Framework Interview Guide. Assessment types: Personality & Behavior, Competencies."
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Universal Competency Framework Job profiling guide. Assessment types: Personality & Behavior, Competencies."
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "test_type": [
+      "P",
+      "C"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Universal Competency Framework Profiler Cards (44). Assessment types: Personality & Behavior, Competencies."
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/unix-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: UNIX (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vb-net-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: VB.NET (New). Assessment types: Knowledge & Skills. Technical programming and software development skills assessment."
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - Deductive Reasoning. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-following-instructions/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify - Following Instructions. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - G+. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-general-ability-screen/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - General Ability Screen. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - Inductive Reasoning (2014). Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - Numerical Ability. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify - Technical Checking - Next Generation. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Verify - Verbal Ability - Next Generation. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-working-with-information/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify - Working with Information. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-ability-test-report/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify G+ - Ability Test Report. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-g-candidate-report/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify G+ - Candidate Report. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify Interactive Ability Report. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify Interactive G+ Candidate Report. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-g-report/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify Interactive G+ Report. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": [
+      "A"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Verify Interactive Process Monitoring. Assessment types: Ability & Aptitude. Cognitive ability and aptitude verification assessment."
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "test_type": [
+      "P"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Virtual Assessment and Development Centers. Assessment types: Personality & Behavior."
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-basic-for-applications-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Visual Basic for Applications (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-uk/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Visual Comparison - UK. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/visual-comparison-us/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Visual Comparison - US. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: VLSI and Embedded Systems (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/what-is-the-value-us/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: What Is The Value - US. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-administration-skills-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Workplace Administration Skills (New). Assessment types: Knowledge & Skills. Administrative and clerical skills assessment."
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Workplace Health and Safety (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: WriteX - Email Writing (Customer Service) (New). Assessment types: Simulations. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "test_type": [
+      "S"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: WriteX - Email Writing (Managerial) (New). Assessment types: Simulations. Leadership and management competency assessment."
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_type": [
+      "S",
+      "B"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: WriteX - Email Writing (Sales) (New). Assessment types: Simulations, Biodata & Situational Judgement. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-english-v1/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Written English v1. Assessment types: Knowledge & Skills. Communication, language, and writing skills assessment."
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/written-spanish/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "Yes",
+    "description": "SHL Assessment: Written Spanish. Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/zabbix-new/",
+    "test_type": [
+      "K"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Zabbix (New). Assessment types: Knowledge & Skills."
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-digital-report/",
+    "test_type": [
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: 360 Digital Report. Assessment types: Development & 360."
+  },
+  {
+    "name": "360Â° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "test_type": [
+      "P",
+      "D"
+    ],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: 360Â° Multi-Rater Feedback System (MFS). Assessment types: Personality & Behavior, Development & 360."
+  },
+  {
+    "name": "Professional 7 1 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-1-solution/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Professional 7 1 Solution."
+  },
+  {
+    "name": "Manager 8 0 Jfa",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/manager-8-0-jfa-4310/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Manager 8 0 Jfa. Leadership and management competency assessment."
+  },
+  {
+    "name": "Financial Professional Short Form",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-professional-short-form/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Financial Professional Short Form."
+  },
+  {
+    "name": "Entry Level Sales 7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-7-1/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Sales 7. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Sales Representative Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/sales-representative-solution/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Sales Representative Solution. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "General Entry Level Data Entry 7 0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-entry-level-data-entry-7-0-solution/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: General Entry Level Data Entry 7 0 Solution. Entry-level and graduate recruitment assessment."
+  },
+  {
+    "name": "Technical Sales Associate Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/technical-sales-associate-solution/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Technical Sales Associate Solution. Business and commercial skills assessment for sales and marketing roles."
+  },
+  {
+    "name": "Professional 7 0 Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/professional-7-0-solution-3958/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Professional 7 0 Solution."
+  },
+  {
+    "name": "Entry Level Sales Sift Out 7",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+    "test_type": [],
+    "duration": null,
+    "remote_support": "Yes",
+    "adaptive_support": "No",
+    "description": "SHL Assessment: Entry Level Sales Sift Out 7. Business and commercial skills assessment for sales and marketing roles."
+  }
+]

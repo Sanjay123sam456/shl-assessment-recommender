@@ -1,0 +1,9 @@
+venv/
+.cursor/
+__pycache__/
+*.pyc
+embeddings.npy
+assessments_index.pkl
+.env
+*.log
+.ipynb_checkpoints/

@@ -202,9 +202,19 @@ class SHLRecommender:
                 self.model = None
                 self._init_tfidf_fallback()
 
+        elif os.path.exists("shl_assessments.json"):
+
+            # Deployment-safe fallback: build an in-memory TF-IDF index directly
+            # from scraped assessment data when precomputed embedding files are absent.
+            with open("shl_assessments.json", "r", encoding="utf-8") as f:
+                self.assessments = json.load(f)
+
+            self.model = None
+            self._init_tfidf_fallback()
+
         else:
 
-            raise FileNotFoundError("Run build_embeddings.py first.")
+            raise FileNotFoundError("Missing index files and shl_assessments.json. Run scraper.py first.")
 
     def _assessment_text(self, a: Dict) -> str:
         return " ".join(

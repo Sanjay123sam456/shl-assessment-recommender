@@ -68,7 +68,7 @@ if os.path.exists(frontend_path):
         html = f.read()
 
     # Inject API base URL before </head>
-    api_url = os.getenv("API_URL", "http://localhost:8000")
+    api_url = os.getenv("API_URL", "")
     html = html.replace(
         "</head>",
         f"<script>window.API_BASE = '{api_url}';</script></head>",

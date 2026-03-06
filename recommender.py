@@ -93,6 +93,9 @@ def _cache_key(query: str, candidate_names: List[str]) -> str:
 
 def _call_gemini_reranker(query: str, candidates: List[Dict], n: int = 10) -> List[int]:
 
+    if os.getenv("DISABLE_GEMINI", "0") == "1":
+        return list(range(min(n, len(candidates))))
+
     api_key = os.getenv("GEMINI_API_KEY")
 
     if not api_key:
@@ -141,7 +144,7 @@ Return JSON array of indices.
 
         model = genai.GenerativeModel("gemini-2.0-flash")
 
-        response = model.generate_content(prompt)
+        response = model.generate_content(prompt, request_options={"timeout": 8})
 
         text = response.text.strip()
 
@@ -175,6 +178,8 @@ class SHLRecommender:
         self.embeddings = None
 
         self.model = None
+        self.vectorizer = None
+        self.doc_matrix = None
 
         self._load_index()
 
@@ -190,21 +195,45 @@ class SHLRecommender:
 
             self.assessments = data["assessments"]
 
-            from sentence_transformers import SentenceTransformer
-
-            self.model = SentenceTransformer("all-MiniLM-L6-v2")
+            try:
+                from sentence_transformers import SentenceTransformer
+                self.model = SentenceTransformer("all-MiniLM-L6-v2", local_files_only=True)
+            except Exception:
+                self.model = None
+                self._init_tfidf_fallback()
 
         else:
 
             raise FileNotFoundError("Run build_embeddings.py first.")
 
+    def _assessment_text(self, a: Dict) -> str:
+        return " ".join(
+            [
+                a.get("name", ""),
+                a.get("description", ""),
+                " ".join(TYPE_MAP.get(t, t) for t in a.get("test_type", [])),
+            ]
+        )
+
+    def _init_tfidf_fallback(self):
+        from sklearn.feature_extraction.text import TfidfVectorizer
+
+        texts = [self._assessment_text(a) for a in self.assessments]
+        self.vectorizer = TfidfVectorizer(ngram_range=(1, 2), min_df=1, max_features=40000)
+        self.doc_matrix = self.vectorizer.fit_transform(texts)
+
     def _hybrid_search(self, query: str, top_k: int = 30):
 
         from sklearn.metrics.pairwise import cosine_similarity
 
-        query_emb = self.model.encode([query])
-
-        scores = cosine_similarity(query_emb, self.embeddings)[0]
+        if self.model is not None:
+            query_emb = self.model.encode([query])
+            scores = cosine_similarity(query_emb, self.embeddings)[0]
+        else:
+            if self.vectorizer is None or self.doc_matrix is None:
+                self._init_tfidf_fallback()
+            query_vec = self.vectorizer.transform([query])
+            scores = cosine_similarity(query_vec, self.doc_matrix)[0]
 
         results = []
 

@@ -14,10 +14,10 @@ cd shl_recommender
 
 Create a `.env` file:
 ```
-OPENROUTER_API_KEY=your_openrouter_key_here
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
-Get your free OpenRouter key at: https://openrouter.ai/
+Get your Gemini API key at: https://aistudio.google.com/app/apikey
 
 ### Step 2: Install dependencies
 

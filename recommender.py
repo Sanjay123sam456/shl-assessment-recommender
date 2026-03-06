@@ -8,6 +8,7 @@ import numpy as np
 import pickle
 import os
 import re
+from pathlib import Path
 from typing import List, Dict
 from dotenv import load_dotenv
 
@@ -85,6 +86,7 @@ SECONDARY_BOOSTS = {
 
 _gemini_cache = {}
 _CACHE_MAX = 200
+BASE_DIR = Path(__file__).resolve().parent
 
 
 def _cache_key(query: str, candidate_names: List[str]) -> str:
@@ -184,12 +186,15 @@ class SHLRecommender:
         self._load_index()
 
     def _load_index(self):
+        embeddings_path = BASE_DIR / "embeddings.npy"
+        index_path = BASE_DIR / "assessments_index.pkl"
+        json_path = BASE_DIR / "shl_assessments.json"
 
-        if os.path.exists("embeddings.npy") and os.path.exists("assessments_index.pkl"):
+        if embeddings_path.exists() and index_path.exists():
 
-            self.embeddings = np.load("embeddings.npy")
+            self.embeddings = np.load(str(embeddings_path))
 
-            with open("assessments_index.pkl", "rb") as f:
+            with open(index_path, "rb") as f:
 
                 data = pickle.load(f)
 
@@ -202,11 +207,11 @@ class SHLRecommender:
                 self.model = None
                 self._init_tfidf_fallback()
 
-        elif os.path.exists("shl_assessments.json"):
+        elif json_path.exists():
 
             # Deployment-safe fallback: build an in-memory TF-IDF index directly
             # from scraped assessment data when precomputed embedding files are absent.
-            with open("shl_assessments.json", "r", encoding="utf-8") as f:
+            with open(json_path, "r", encoding="utf-8") as f:
                 self.assessments = json.load(f)
 
             self.model = None

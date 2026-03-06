@@ -218,8 +218,15 @@ class SHLRecommender:
             self._init_tfidf_fallback()
 
         else:
-
-            raise FileNotFoundError("Missing index files and shl_assessments.json. Run scraper.py first.")
+            # Last-resort fallback: use built-in known SHL URLs from scraper module
+            # so API remains operational in environments where data files are absent.
+            try:
+                from scraper import build_from_known_urls
+                self.assessments = build_from_known_urls()
+                self.model = None
+                self._init_tfidf_fallback()
+            except Exception:
+                raise FileNotFoundError("Missing index files and shl_assessments.json. Run scraper.py first.")
 
     def _assessment_text(self, a: Dict) -> str:
         return " ".join(

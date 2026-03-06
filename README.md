@@ -94,7 +94,7 @@ Output:
 3. Connect your repo
 4. Build command: `pip install -r requirements.txt`
 5. Start command: `uvicorn api:app --host 0.0.0.0 --port $PORT`
-6. Add env variable: `OPENROUTER_API_KEY=your_key`
+6. Add env variable: `GEMINI_API_KEY=your_key`
 
 ### Deploy Frontend:
 1. Same repo, new Web Service on Render
@@ -130,7 +130,7 @@ User Query / JD Text / URL
         ↓
 [Semantic Search] — sentence-transformers cosine similarity
         ↓ top 30 candidates
-[LLM Reranker] — OpenRouter Mistral reranks to top 10
+[LLM Reranker] — Gemini 2.0 Flash reranks to top 10
         ↓
 [Balance Enforcer] — ensures type balance (K+P if both needed)
         ↓
@@ -158,8 +158,8 @@ Final 5-10 Recommendations
 **Issue:** scraper gets fewer than 377 assessments
 **Fix:** SHL may paginate differently. Add `?start=X&type=1` parameter manually and check network tab in browser.
 
-**Issue:** OpenRouter rate limit
-**Fix:** Use `google/gemma-2-9b-it:free` as alternative free model in recommender.py
+**Issue:** Gemini API rate limit
+**Fix:** Get a free Gemini API key at https://aistudio.google.com/app/apikey (generous free tier)
 
 **Issue:** Render deployment slow cold start
 **Fix:** Set `RENDER_KEEP_ALIVE=true` or use a cron ping service
